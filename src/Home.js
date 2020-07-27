@@ -148,9 +148,7 @@ export default function Pricing() {
               Support
             </Link>
           </nav>
-          <Button href="#" color="primary" variant="outlined" className={classes.link}>
-            Login
-          </Button>
+          
         </Toolbar>
       </AppBar>
       {/* Hero unit */}
